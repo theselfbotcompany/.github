@@ -1,12 +1,13 @@
-## Hi there 👋
+## About Us
 
-<!--
+At The Selfbot Company, we believe in empowering users with tools that enhance their productivity and streamline their workflows. Our team is passionate about software development, security, and creating user-friendly experiences.
 
-**Here are some ideas to get you started:**
+## Our Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Arc Selfbot
+
+Arc Selfbot is our flagship product, designed to provide users with powerful automation capabilities within the Discord messaging platform. With Arc Selfbot, users can automate repetitive tasks, customize their messaging experience, and boost their productivity.
+
+## Get in Touch
+
+- **GitHub:** [The Selfbot Company](https://github.com/theselfbotcompany)
